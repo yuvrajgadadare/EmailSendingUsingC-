@@ -1,0 +1,7 @@
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\bin\Debug\EmailSendingUsingC#.exe.config
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\bin\Debug\EmailSendingUsingC#.exe
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\bin\Debug\EmailSendingUsingC#.pdb
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\obj\Debug\EmailSendingUsingC#.csproj.AssemblyReference.cache
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\obj\Debug\EmailSendingUsingC#.csproj.CoreCompileInputs.cache
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\obj\Debug\EmailSendingUsingC#.exe
+C:\pooja sutar\EmailSendingUsingC#\EmailSendingUsingC#\obj\Debug\EmailSendingUsingC#.pdb
